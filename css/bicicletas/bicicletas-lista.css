@@ -15,6 +15,7 @@
   margin-left: auto;
   margin-right: auto;
   overflow-x: auto;
+  scroll-snap-type: x mandatory;
 }
 
 #bicicleta .bicicletas-lista ul {
@@ -24,6 +25,7 @@
 .bicicletas-lista li {
   flex: 1;
   min-width: 280px;
+  scroll-snap-align: center;
 }
 
 .bicicletas-lista a {
@@ -62,6 +64,7 @@
   .bicicletas-lista {
     padding-bottom: 60px;
   }
+
   .bicicletas-lista ul {
     gap: 20px;
   }
