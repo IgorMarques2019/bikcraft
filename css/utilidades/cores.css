@@ -1,0 +1,24 @@
+:root {
+  --orange-001: #FFBB00;
+  --orange-002: #E4A30B;
+  --orange-003: #A66F00;
+  --orange-004: #664400;
+  --orange-005: #332200;
+
+  --cor-012: #000000;
+  --cor-011: #111111;
+  --cor-010: #2E2E2E;
+  --cor-009: #404040;
+  --cor-008: #595959;
+  --cor-007: #717171;
+  --cor-006: #9C9C9C;
+  --cor-005: #B2B2B2;
+  --cor-004: #CCCCCC;
+  --cor-003: #DEDEDE;
+  --cor-002: #EDEDED;
+  --cor-001: #f7f7f7;
+  --white: #ffffff;
+
+  --gradient-001: linear-gradient(to bottom, #FFBF00, #F2A50C);
+  --gradient-001-hover: linear-gradient(#ffb60d, #e59317);
+}

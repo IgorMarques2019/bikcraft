@@ -1,0 +1,23 @@
+button,
+.botao {
+  border-radius: 0.3125rem;
+  border: none;
+  cursor: pointer;
+}
+
+
+.botao {
+  padding: 1rem 2rem;
+  font-size: 1.125rem;
+  text-transform: uppercase;
+  display: inline-block;
+  background: var(--gradient-001);
+  font: 600 1.125rem / 1.33 'Poppins';
+  color: var(--orange-005);
+  box-shadow: 0 0.0625rem 0.125rem 0.625rem rgba(0, 0, 0, 0.1);
+}
+
+
+.botao:hover {
+  background: var(--gradient-001-hover);
+}
